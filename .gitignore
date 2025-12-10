@@ -4,3 +4,4 @@
 devi_config.json
 mqtt_config.json
 dependency-reduced-pom.xml
+*.jar
